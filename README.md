@@ -29,3 +29,8 @@ https://dribbble.com/shots/16018192-Digital-Wallet-Dashboard-UI-Dark-Theme <br>
 https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme <br>
 https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard <br>
 https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard <br>
+
+## Dica
+
+**Utilize sites para se inspirar
+Alguns deles são: [Behance](https://www.behance.net), [Pinterest](https://br.pinterest.com)
