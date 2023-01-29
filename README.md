@@ -1,5 +1,4 @@
-# 2ProjetosHTMLeCSS
-02 projetos de HTML e CSS para adicionar no seu portfólio
+# 02 projetos de HTML e CSS para adicionar no seu portfólio
 
 ## **1.Páginas de Login e Cadastro**
 https://dribbble.com/shots/15252242-Sign-Up-Page <br>
